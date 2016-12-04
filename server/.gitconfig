@@ -1,0 +1,5 @@
+[user]
+    name = Jonathan King
+    email = jonathanlking@me.com
+[core]
+    editor = vim
